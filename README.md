@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **TDHTTTT/TDHTTTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on: Electron Identification
+- 🌱 I’m currently learning: Quantum Information and Physics Informed Machine Learning
+- 👯 I’m looking to collaborate on: Machine learning & knowledge managment tools 
+- 📫 How to reach me: [Web](https://tdhttt.com) 
