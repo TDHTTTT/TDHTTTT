@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on: Electron Identification
+- 🔭 I’m currently working on: Quantum Enhanced GAN
 - 🌱 I’m currently learning: Quantum Information and Physics Informed Machine Learning
 - 👯 I’m looking to collaborate on: Machine learning & knowledge managment tools 
 - 📫 How to reach me: [tdhttt.com](https://tdhttt.com) gmail@tdhttt.com 
